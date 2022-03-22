@@ -4,4 +4,4 @@ hello
 
 
 
-<img src="https://https://github.com/Mrfroxi/Mrfroxi/blob/main/MainGif.gif" object-fit="contain" align="right" width="100%" >
+<img src="https://raw.githubusercontent.com/Mrfroxi/Mrfroxi/main/MainGif.gif" object-fit="contain" align="right" width="100%" >
