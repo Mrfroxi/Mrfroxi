@@ -1,7 +1,7 @@
 hello
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Mrfroxi.
 
-- 📫 How to reach me: `froxi340@mail.ru or mrfroxik@gmail.com`
+- 📫 How to reach me: `froxi340@mail.ru `
 
 
 **languages and tools:**
