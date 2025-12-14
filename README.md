@@ -1,4 +1,4 @@
-hello
+hey
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Mrfroxi.
 
 - 📫 How to reach me: `pilutikas340@gmail.com`
